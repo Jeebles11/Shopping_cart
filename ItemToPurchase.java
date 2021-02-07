@@ -35,7 +35,7 @@ public class ItemToPurchase {
       setPrice(price);
       setQuantity(quant);
       setDescription(itemDesc);
-    }
+   }
     
    /* Instance Methods *
       /* Setters */
@@ -62,7 +62,6 @@ public class ItemToPurchase {
      
      else
          itemDescription = itemDesc;
-      
    }
    
     /* Getters */
